@@ -1,0 +1,19 @@
+{
+  "name": "01-node-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "02-globals.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev"  : "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
